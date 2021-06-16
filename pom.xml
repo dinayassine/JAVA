@@ -5,9 +5,10 @@
 
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Maven Project</name>
+    <type>jar</type>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
